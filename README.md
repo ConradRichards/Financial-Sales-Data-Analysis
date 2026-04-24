@@ -3,7 +3,8 @@ Interactive Dashboards Power BI & Micrsoft Excel
 
 ### Executive Summary:
 
-In project "A" were its raw data file stored in this repitoary named "Raw Data Sales Analysis" , showcases a Wholesale distrubtion company called Home Depot asking for a Summarized sales report/dashboard involving large datasets to view totals, trends, and comparisons of there lumbar building sales department over the course of several years inclduing identifying trends, growth and any sales dips.
+In project "A" were its raw data file stored in this Repository named "Raw Data Sales Analysis" , showcases a Wholesale distrubtion company called Home Depot asking for a Summarized sales report/dashboard involving large datasets to view totals, trends, and comparisons of there lumbar building sales department over the course of several years inclduing identifying trends, growth and any sales dips.
+
 In project "B" were its file stored in this repitoary named "End-to-End Sales & Profitability Analysis Dashboard" showcases a beverege distrubtion company requesting an interactive dashboard for real time insights adding on to needing metrics to track to reduce margin leakage to enable data driven decsions. 
 
 ### Methodology:
@@ -13,6 +14,7 @@ In project "B" were its file stored in this repitoary named "End-to-End Sales & 
 
 ### Skills:
 
-Project A: Excel (Groupoing, Pivot Tables, Slicers, Grouping, Organzing , Summarzing Value Fields, Power Query, Data Modeling)
+Project A: Excel (Pivot Tables, Slicers, Grouping, Organzing, Summarzing Value Fields, Power Query, Data Modeling)
 
-Prjoct B: Power BI (Power Query, Data Modeling, AI & Advance Analytics, Interactivity, DAX)
+
+Project B: Power BI (Power Query, Data Modeling, AI & Advance Analytics, Interactivity, DAX)
