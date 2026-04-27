@@ -1,6 +1,6 @@
 # Financial-Sales-Data-Analysis
 Interactive Dashboards Power BI & Microsoft Excel
-
+ 
 ### Executive Summary:
 
 In project "A" were its raw data file stored in this Repository named "Raw Data Sales Analysis" , showcases a Wholesale distribution company called Home Depot asking for a Summarized sales report/dashboard involving large datasets to view totals, trends, and comparisons of their lumbar building sales department over the course of several years including identifying trends, growth and any sales dips.
