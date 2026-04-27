@@ -4,7 +4,7 @@ Interactive Dashboards Power BI & Microsoft Excel
 ### Executive Summary:
 
 In project "A" were its raw data file stored in this Repository named "Raw Data Sales Analysis" , showcases a Wholesale distribution company called Home Depot asking for a Summarized sales report/dashboard involving large datasets to view totals, trends, and comparisons of their lumbar building sales department over the course of several years including identifying trends, growth and any sales dips.
-
+![image](https://github.com/ConradRichards/Financial-Sales-Data-Analysis/blob/7c0ffcc3d5eaf04c68d81d756aac376fc2269889/Pivot%20Table%20Image.png)
 In project "B" were its file stored in this Repository named "End-to-End Sales & Profitability Analysis Dashboard" showcases a beverege distrubtion company requesting an interactive dashboard for real time insights adding on to needing metrics to track to reduce margin leakage to enable data driven decisions. 
 
 ### Methodology:
